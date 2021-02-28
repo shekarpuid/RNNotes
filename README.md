@@ -1,5 +1,5 @@
 # RNNotes
-React Native UI, Frontend, Styles, Tutorials, References etc..,
-Todo App with Animations
-HTTP service call method - One for all
+1. React Native UI, Frontend, Styles, Tutorials, References etc..,
+2. Todo App with Animations
+3. HTTP service call method - One for all
 
